@@ -25,12 +25,20 @@
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
     },
     {
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
-      "name": "Macarrão carbonara",
-      "price": "19",
-      "description": "Com bastante bacon",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Macarrão Carbonara",
+      "price": "20",
+      "description": "",
       "available": true,
       "id": 4
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Macarrão carbonara com banco duplo",
+      "price": "20",
+      "description": "Com bastante bacon",
+      "available": true,
+      "id": 5
     }
   ]
 }
