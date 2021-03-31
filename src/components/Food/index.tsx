@@ -16,7 +16,6 @@ export interface Product {
 interface FoodProps {
   food: Product;
   handleDelete: (id: number) => void;
-  available: boolean;
   handleEditFood: (food: Product) => void;
 }
 
