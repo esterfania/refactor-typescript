@@ -2,9 +2,9 @@
   "foods": [
     {
       "id": 1,
-      "name": "Ao molho",
+      "name": "Ao molho branco",
       "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas",
-      "price": "19.90",
+      "price": "20.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
     },
@@ -17,17 +17,9 @@
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
     },
     {
-      "id": 3,
-      "name": "A la Camarón com bacon",
-      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
-      "price": "25.90",
-      "available": false,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
-    },
-    {
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
       "name": "Macarrão Carbonara",
-      "price": "20",
+      "price": "20.9",
       "description": "Com muito bacon",
       "available": true,
       "id": 4
@@ -47,6 +39,14 @@
       "description": "Carbonara com Bacon e azeitonas",
       "available": true,
       "id": 6
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "La camaron com Bacon",
+      "price": "20",
+      "description": "Com muito bacoooon",
+      "available": true,
+      "id": 7
     }
   ]
 }
